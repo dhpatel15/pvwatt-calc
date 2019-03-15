@@ -3,7 +3,7 @@
 ```sh
 # clone repo 
 
-cd pvwatt-calc/pvwatt-calc 
+cd pvwatt-calc 
 
 # download dependencies
 npm install
